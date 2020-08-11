@@ -10,10 +10,6 @@ Test changes with:
 jekyll serve
 ```
 
-
-More info on the [Media Lab wiki](http://wiki.media.mit.edu/view/Necsys/WebPagePersonal).
-
-
 ## External Libraries
 - Framework: [Jekyll](http://jekyllrb.com/)
 - CSS
