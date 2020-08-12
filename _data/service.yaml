@@ -26,8 +26,8 @@ service:
   date: "09/17/2020 - 09/24/2020"
 
 - title: "Chair"
-  subtitle: "Society of Young Network Scientists"
-  # location: "International S"
+  subtitle: "Society of Young Network Scientists (SYNS)"
+  location: "International"
   date: "07/28/2019"
 
 - title: "Program Committee Member"
