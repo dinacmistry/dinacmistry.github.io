@@ -9,13 +9,13 @@ experiences:
   time: "Feb 2019 - Jul 2020"
   title: "Postdoctoral Research Scientist"
   subtitle: "Intellectual Ventures"
-  category: "work"
+  category: "school"
 
 - place: "Network Science Institute"
   time: "May 2014 - Feb 2019"
-  title: "Postdoctoral Research Scientist"
+  title: "Ph.D Student"
   subtitle: "MOBS Lab, Northeastern University"
-  category: "school"
+  category: "work"
 
 # - place: "Dept. of Physics, Northeastern University"
 #   time: "May 2014 - Jul 2015"
@@ -39,7 +39,7 @@ experiences:
   time: "Sept 2010 – May 2011"
   title: "Undergraduate Research Student, <br/> Dept. of Physics"
   subtitle: "Thesis Advisor: Prof. Sabine Stanley <br/>"
-  category: "school"
+  category: "work"
 
 - place: "University of Toronto"
   time: "Sep 2007 - Jun 2012"
