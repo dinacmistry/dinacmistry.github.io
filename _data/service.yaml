@@ -1,0 +1,107 @@
+service:
+
+- title: "Vaccine Hesitancy & Misinformation"
+  subtitle: "Parallel Session Organizer, IDM Symposium"
+  location: "Virtual"
+  date: "Postponed"
+
+- title: "NetSci 2020 Conference Financial Support Committee Member"
+  subtitle: "Network Science Society"
+  location: "(Virtual) Rome, Italy"
+  date: "08/14/2020"
+
+- title: "2nd Annual Diversify NetSci"
+  subtitle: "Co-Organizer, NetSci 2020 Conference"
+  location: "(Virtual) Rome, Italy"
+  date: "09/18/2020 - 09/19/2020"
+
+- title: "The Confusions of a Young Scientist"
+  subtitle: "Co-Organizer, NetSci 2020 Conference"
+  location: "(Virtual) Rome, Italy"
+  date: "09/16/2020"
+
+- title: "Program Committee Member"
+  subtitle: "NetSci 2020 Conference"
+  location: "(Virtual) Rome, Italy"
+  date: "09/17/2020 - 09/24/2020"
+
+- title: "Chair"
+  subtitle: "Society of Young Network Scientists"
+  # location: "International S"
+  date: "07/28/2019 - Present"
+
+- title: "Program Committee Member"
+  subtitle: "NetSci-X 2020 Winter Conference"
+  location: "Tokyo, Japan"
+  date: "08/24/2019"
+
+- title: "Inaugural Diversify NetSci"
+  subtitle: "NetSci 2019 Conference"
+  location: "Burlington, Vermont"
+  date: "05/28/2019"
+
+- title: "Program Committee Member"
+  subtitle: "International Conference on Complex Networks"
+  location: "Boston, Massachusetts"
+  date: "03/05/2018 - 03/08/2018"
+
+- title: "Art of Networks Local Organizer"
+  subtitle: "International Conference on Complex Networks"
+  location: "Boston, Massachusetts"
+  date: "03/06/2018"
+
+- title: "Paper Unwind Co-Organizer"
+  subtitle: "Society of Young Network Scientists (SYNS)"
+  location: "Boston, Massachusetts"
+  date: "03/04/2018"
+
+- title: "Women's Summer Retreat Organizer"
+  subtitle: "Graduate Women in Science and Engineering (GWISE)"
+  location: "Massachusetts Institute of Technology (MIT)"
+  date: "08/17/2018"
+
+- title: "Senior Grad Panel"
+  subtitle: "Graduate School & Research"
+  location: "Northeastern University"
+  date: "02/04/2018"
+
+- title: "Panel Member"
+  subtitle: "Diversity and Inclusion Town Hall"
+  location: "Northeastern University"
+  date: "10/17/2017"
+
+- title: "Professional Development Workshop Organizer"
+  subtitle: "Department of Physics"
+  location: "Northeastern University"
+  date: "03/08/2017, 03/22/2017, 04/05/2017"
+
+- title: "Graduate Student Union Dept. Leader"
+  subtitle: "Department of Physics"
+  location: "Northeastern University"
+  date: "2016-2018"
+
+- title: "Graduate Student Representative"
+  subtitle: "Department of Physics"
+  location: "Northeastern University"
+  date: "2014-2016"
+
+- title: "Vice President of Academic Affairs"
+  subtitle: "Physics & Astronomy Student Union"
+  location: "University of Toronto"
+  date: "2011-2012"
+
+
+
+
+
+# - title: "Google Cloud released two videos of NASA FDL 2019 work! <b>available <a href='https://www.youtube.com/watch?v=RtAtsEyAWA4'>here</a> and <a href='https://www.youtube.com/watch?v=CMDRHTiJKUA'>here</a></b>"
+#   date: "07/2020"
+
+# - title: "Attended <a href='https://www.scipy2020.scipy.org/'>SciPy 2020</a>"
+#   date: "07/2020"
+
+# - title: "Accepted to participate in <a href='https://heliohackweek.github.io/'>Helio Hackweek 2020</a> (August 20th - 27th)"
+#   date: "05/2020"
+
+# - title: "Attended the <a href='http://openastronomy.org/pyastro/2020/'>PyAstro 2020</a> Hack Day and worked on sunkit-dem: <a href='https://github.com/sunpy/sunkit-dem/tree/master/sunkit_dem'>see github repo</a>!"
+#   date: "04/2020"

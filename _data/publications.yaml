@@ -30,7 +30,7 @@ papers:
     # venue: "ICWSM'16: International AAAI Conference on Web and Social Media. 2016. (Short Paper)"
     paper_pdf: "https://covid.idmod.org/data/Schools_are_not_islands_we_must_mitigate_community_transmission_to_reopen_schools.pdf"
     # poster: "/assets/publications/2016_twitter_topic_modeling/poster.pdf"
-    selected: n
+    selected: y
 
   - title: "Controlling SARS-CoV-2 via test-trace-quarantine."
     authors: "Cliff Kerr, <b>Dina Mistry <sup>‡</sup></b>, Robyn Stuart<sup>‡</sup>, Katherine Rosenfeld, Gregory Hart, Prashanth Selvaraj, Rafael Nunez, Jamie Cohen, Romesh Abeysuriya, Lauren George, Brittany Hagedorn, Michal Jastrzebski, Meaghan Fagalde, Jeff Duchin, Michael Famulare, Daniel Klein"
@@ -43,14 +43,14 @@ papers:
     # venue: "ICWSM'16: International AAAI Conference on Web and Social Media. 2016. (Short Paper)"
     paper_pdf: "https://covid.idmod.org/data/Modeling_countermeasures_for_balanced_reopening_King_County_Washington.pdf"
     # poster: "/assets/publications/2016_twitter_topic_modeling/poster.pdf"
-    selected: n
+    selected: y
 
   - title: "Modelling the impact of reducing control measures on the COVID-19 pandemic in a low transmission setting."
     authors: "Nick Scott, Anna Palmer, Dominic Delport, Romesh Abeysuriya, Robyn Stuart, Cliff Kerr, <b>Dina Mistry</b>, Daniel Klein, Rachel Sacks-Davis, Katie Heath, Samuel Hainsworth, Alisa Pedrana, Mark Stoove, David Wilson, Margaret Hellard"
     # venue: "ICWSM'16: International AAAI Conference on Web and Social Media. 2016. (Short Paper)"
     paper_pdf: "https://www.medrxiv.org/content/10.1101/2020.06.11.20127027v1"
     # poster: "/assets/publications/2016_twitter_topic_modeling/poster.pdf"
-    selected: n
+    selected: y
 
   - title: "Determining the optimal strategy for reopening schools, work and society in the UK: balancing earlier opening and the impact of test and trace strategies with the risk of occurrence of a secondary COVID-19 pandemic wave."
     authors: "Jasmina Panovska-Griffiths, Cliff Kerr, Robyn Stuart, <b>Dina Mistry</b>, Daniel Klein, Russell Viner, Chris Bonell"
@@ -73,7 +73,7 @@ papers:
     paper_pdf: "https://covid.idmod.org/data/COVID-19_intervention_effectiveness_epidemic_trends_Oregon.pdf"
     # slides: "/assets/publications/2014_item_cold_start/slides.pdf"
     # code: "https://github.com/msaveski/LCE"
-    selected: n
+    selected: y
 
   - title: "Seeding COVID-19 across sub-Saharan Africa: an analysis of reported importation events across 40 countries"
     authors: "Laura Skrip, Prashanth Selvaraj, Brittany Hagedorn, André Lin Ouédraogo, Navideh Noori, <b>Dina Mistry</b>, Jamie Bedson, Laurent Hébert-Dufresne, Samuel Scarpino, Benjamin Althouse"
@@ -81,7 +81,7 @@ papers:
     paper_pdf: "https://www.medrxiv.org/content/10.1101/2020.04.01.20050203v2"
     # slides: "/assets/publications/2014_item_cold_start/slides.pdf"
     # code: "https://github.com/msaveski/LCE"
-    selected: n
+    selected: y
 
   - title: "Spread of infectious disease and social awareness as parasitic contagions on clustered networks"
     authors: "Laurent Hébert-Dufresne, <b>Dina Mistry</b>, Benjamin Althouse"
