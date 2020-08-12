@@ -1,6 +1,4 @@
-# Dina Mistry's website (based on Martin Saveski's template)
-
-<a href="https://dinacmistry.github.io/">dinacmistry.github.io</a>
+# Dina Mistry's website (based off the template shared by Martin Saveski)
 
 ## Updates guide
 Change one of the files in `_data`, unless you are changing the look of the website.
@@ -9,6 +7,18 @@ Test changes with:
 ```
 jekyll serve
 ```
+
+Push to the ML web directory:
+```
+rm -rf public_html
+mkdir public_html
+```
+```
+./__deploy.sh
+```
+
+More info on the [Media Lab wiki](http://wiki.media.mit.edu/view/Necsys/WebPagePersonal).
+
 
 ## External Libraries
 - Framework: [Jekyll](http://jekyllrb.com/)

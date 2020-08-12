@@ -1,4 +1,8 @@
-name: Dina Mistry
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-theme: jekyll-theme-slate
+source:      .
+destination: ./_site
+includes:    ./_includes
+baseurl:
+
+collections:
+  projects:
+    output: true

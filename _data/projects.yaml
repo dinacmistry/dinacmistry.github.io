@@ -1,0 +1,30 @@
+projects:
+  - title: "Inferring High-Resolution Human Mixing Patterns for Disease Modeling"
+    subtitle: "Generating Synthetic Populations Using Census and Survey Data"
+    thumbnail: "assets/projects/2020_contact_matrices/fig1.png"
+    url: "projects/2020_contact_matrices.html"
+    selected: y
+
+  - title: "SynthPops: A Generative Model of Synthetic Contact Networks"
+    # subtitle: "Pilot project in Jun, Spain"
+    thumbnail: "assets/projects/2020_synthpops/si_fig_4.svg"
+    url: "projects/2020_synthpops.html"
+    selected: y
+
+  - title: "Schools are not islands: we must mitigate community transmission to reopen schools"
+    # subtitle: "Pilot project in Jun, Spain"
+    thumbnail: "assets/projects/2020_schools_1/fig3.png"
+    url: "projects/2020_schools_1.html"
+    selected: y
+
+  - title: "Controlling SARS-CoV-2 via test-trace-quarantine"
+    # subtitle: "Pilot project in Jun, Spain"
+    thumbnail: "assets/projects/2020_covid-19_ttq/fig2.png"
+    url: "projects/2020_covid-19_ttq.html"
+    selected: y
+
+  - title: "Spreading of Zika virus in the Americas"
+    subtitle: ""
+    thumbnail: "assets/projects/2017_zika/F6large.jpg"
+    url: "projects/2017_zika.html"
+    selected: y
