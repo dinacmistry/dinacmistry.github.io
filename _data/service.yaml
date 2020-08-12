@@ -28,7 +28,7 @@ service:
 - title: "Chair"
   subtitle: "Society of Young Network Scientists"
   # location: "International S"
-  date: "07/28/2019 - Present"
+  date: "07/28/2019"
 
 - title: "Program Committee Member"
   subtitle: "NetSci-X 2020 Winter Conference"
@@ -62,7 +62,7 @@ service:
 
 - title: "Senior Grad Panel"
   subtitle: "Graduate School & Research"
-  location: "Northeastern University"
+  location: "Department of Physics, Northeastern University"
   date: "02/04/2018"
 
 - title: "Panel Member"

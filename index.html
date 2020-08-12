@@ -293,7 +293,7 @@ title: Personal Webpage
   </div>
 </div>
 
-<!-- ========== PERFORMANCES ========== -->
+<!-- ========== LEADERSHIP & SERVICE ========== -->
 <div class="docs-section" id="service">
   <h4>Leadership & Service</h4>
 
@@ -304,7 +304,7 @@ title: Personal Webpage
   <ul>
     {% for sv in site.data.service.service %}
     <!-- <a class="navbar-link" href={{ "/index.html#bio" | prepend: site.baseurl }}>Bio</a> -->
-    <div class="row"><div class="two columns"><b>{{ sv.date }}</b></div> <div class="ten columns">{{ sv.title }}<i>{{ sv.subtitle }}</i></div></div>
+    <div class="row"><div class="three columns"><b>{{ sv.date }}</b></div> <div class="nine columns"> <b>{{ sv.title }}</b>, {{ sv.subtitle }}, {{sv.location}} </div></div>
     {% endfor %}
   </ul>
 
