@@ -1,0 +1,64 @@
+performances:
+
+- title: "Redmond Library, Redmond, WA"
+  date: "10/12/2019"
+
+- title: "Seattle University, Seattle, WA"
+  date: "09/22/2019"
+
+- title: "Jackson Street Jazz Walk, Seattle, WA"
+  date: "09/07/2019"
+
+- title: "University Heights, Seattle, WA"
+  date: "09/07/2019"
+
+- title: "CID Summer Cinema Hing Hay Park, Seattle, WA"
+  date: "08/24/2019"
+
+- title: "Belltown Crush, Seattle, WA"
+  date: "08/24/2019"
+
+- title: "Sullivan Center Tukwila, Tukwila, WA"
+  date: "08/21/2019"
+
+- title: "Normandy Park Music in the Park, Normandy, WA"
+  date: "08/11/2019"
+
+- title: "Othello Park International Festival, Othello, WA"
+  date: "08/11/2019"
+
+- title: "Seattle Caribbean Festival, Seattle, WA"
+  date: "07/28/2019"
+
+- title: "Dance and Splash, Seattle, WA"
+  date: "07/13/2019"
+
+- title: "Nordstrom's Downtown Seattle, Seattle, WA"
+  date: "07/12/2019"
+
+- title: "Fremont Solstice Parade, Fremont, WA"
+  date: "06/22/2019"
+
+- title: "Renton Technical College Commencement, Renton, WA"
+  date: "06/20/2019"
+
+- title: "Highline College, Des Moines, WA"
+  date: "05/23/2019"
+
+- title: "Tulalip Casino and Resort, Tulalip, WA"
+  date: "04/13/2019"
+
+- title: "Powered By Women, Langston Hughes, Seattle, WA"
+  date: "03/30/2019"
+
+# - title: "Google Cloud released two videos of NASA FDL 2019 work! <b>available <a href='https://www.youtube.com/watch?v=RtAtsEyAWA4'>here</a> and <a href='https://www.youtube.com/watch?v=CMDRHTiJKUA'>here</a></b>"
+#   date: "07/2020"
+
+# - title: "Attended <a href='https://www.scipy2020.scipy.org/'>SciPy 2020</a>"
+#   date: "07/2020"
+
+# - title: "Accepted to participate in <a href='https://heliohackweek.github.io/'>Helio Hackweek 2020</a> (August 20th - 27th)"
+#   date: "05/2020"
+
+# - title: "Attended the <a href='http://openastronomy.org/pyastro/2020/'>PyAstro 2020</a> Hack Day and worked on sunkit-dem: <a href='https://github.com/sunpy/sunkit-dem/tree/master/sunkit_dem'>see github repo</a>!"
+#   date: "04/2020"

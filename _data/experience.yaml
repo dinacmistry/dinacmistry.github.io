@@ -1,0 +1,48 @@
+experiences:
+- place: "Bill & Melinda Gates Foundation"
+  time: "Jul 2020 - now"
+  title: "Postdoctoral Research Scientist"
+  subtitle: "Institute for Disease Modeling"
+  category: "work"
+
+- place: "Institute for Disease Modeling"
+  time: "Feb 2019 - Jul 2020"
+  title: "Postdoctoral Research Scientist"
+  subtitle: "Intellectual Ventures"
+  category: "work"
+
+- place: "Network Science Institute"
+  time: "May 2014 - Feb 2019"
+  title: "Postdoctoral Research Scientist"
+  subtitle: "MOBS Lab, Northeastern University"
+  category: "school"
+
+# - place: "Dept. of Physics, Northeastern University"
+#   time: "May 2014 - Jul 2015"
+#   title: "Ph.D. Student"
+#   subtitle: "MOBS Lab"
+#   category: "school"
+
+- place: "Northeastern University"
+  time: "Sept 2012 - May 2014"
+  title: "Graduate Teaching Assistant"
+  subtitle: "Dept. of Physics"
+  category: "school"
+
+# - place: "University of Toronto"
+#   time: "May 2011 – Sept 2011"
+#   title: "Undergraduate Summer Research Assistant, <br/> Dept. of Physics"
+#   subtitle: "Experimental Nonlinear Dynamics <br/> Advisor: Prof. Stephen Morris <br/>"
+#   category: "school"
+
+- place: "University of Toronto"
+  time: "Sept 2010 – May 2011"
+  title: "Undergraduate Research Student, <br/> Dept. of Physics"
+  subtitle: "Thesis Advisor: Prof. Sabine Stanley <br/>"
+  category: "school"
+
+- place: "University of Toronto"
+  time: "Sep 2007 - Jun 2012"
+  title: "Hon. B.Sc. "
+  subtitle: "Specialist Degree in Astronomy & Physics, <br/> Minor in Mathematics, <br/> with High Distinction"
+  category: "school"
