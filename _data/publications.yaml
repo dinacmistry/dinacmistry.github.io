@@ -25,6 +25,14 @@ papers:
   #   # video: "https://www.youtube.com/watch?v=1v5_CzdRVAc"
   #   selected: y
 
+
+  - title: "Maximizing education while minimizing COVID risk: priorities and pitfalls for reopening schools."
+    authors: "Jamie Cohen, <b>Dina Mistry</b>, Cliff Kerr, Daniel Klein"
+    # venue: "ICWSM'16: International AAAI Conference on Web and Social Media. 2016. (Short Paper)"
+    paper_pdf: "https://covid.idmod.org/data/Maximizing_education_while_minimizing_COVID_risk.pdf"
+    # poster: "/assets/publications/2016_twitter_topic_modeling/poster.pdf"
+    selected: y
+
   - title: "Schools are not islands: we must mitigate community transmission to reopen schools."
     authors: "Jamie Cohen, <b>Dina Mistry</b>, Cliff Kerr, Daniel Klein"
     # venue: "ICWSM'16: International AAAI Conference on Web and Social Media. 2016. (Short Paper)"
