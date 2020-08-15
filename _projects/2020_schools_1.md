@@ -12,7 +12,7 @@ Throughout US states and much of the rest of the world school closures were impl
 We use <a href="https://github.com/institutefordiseasemodeling/covasim">Covasim model</a>, a detailed agent based model of COVID-19 to evaluate the tradeoffs of different proposed strategies for reopening schools and identify the requirements to avoid significant community transmission. This work also uses <a href="https://github.com/InstituteforDiseaseModeling/synthpops">SynthPops</a>, an open-source data-driven generative model of multilayer contact networks, to model detailed school network structures of contact between students, teachers, and additional school staff. 
 
 
- **Read the latest [report]({{"https://covid.idmod.org/data/Schools_are_not_islands_we_must_mitigate_community_transmission_to_reopen_schools.pdf | prepend: site.baseurl }}).**
+ **Read the latest reports [(1)]({{"https://covid.idmod.org/data/Schools_are_not_islands_we_must_mitigate_community_transmission_to_reopen_schools.pdf" | prepend: site.baseurl }}), [(2)]({{"https://covid.idmod.org/data/Maximizing_education_while_minimizing_COVID_risk.pdf" | prepend: site.baseurl }}).**
 
 **Fig 3. Efficiency frontier describing the trade-off between COVID-19 attack rate and in-person school days lost for four community and workplace mobility scenarios. For a given level of mobility (dashed lines), points to the lower left are preferable, as they represent both a lower COVID-19 attack rate and fewer school days lost. The COVID attack rate is calculated as the number of new infections in the population over the first three months of the school term divided by the population of King County.** 
 <br>

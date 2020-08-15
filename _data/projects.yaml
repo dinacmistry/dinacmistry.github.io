@@ -11,6 +11,13 @@ projects:
     url: "projects/2020_synthpops.html"
     selected: y
 
+  # - title: "Maximizing education while minimizing COVID risk: priorities and pitfalls for reopening schools"
+  #   # subtitle: "Pilot project in Jun, Spain"
+  #   thumbnail: "assets/projects/2020_schools_1/fig3.png"
+  #   url: "projects/2020_schools_2.html"
+  #   selected: y
+
+
   - title: "Schools are not islands: we must mitigate community transmission to reopen schools"
     # subtitle: "Pilot project in Jun, Spain"
     thumbnail: "assets/projects/2020_schools_1/fig3.png"
