@@ -20,7 +20,7 @@ projects:
 
   - title: "Schools are not islands: we must mitigate community transmission to reopen schools"
     # subtitle: "Pilot project in Jun, Spain"
-    thumbnail: "assets/projects/2020_schools_1/fig3.png"
+    thumbnail: "assets/projects/2020_schools_1/fig1.png"
     url: "projects/2020_schools_1.html"
     selected: y
 
