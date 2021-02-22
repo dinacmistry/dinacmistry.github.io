@@ -15,6 +15,9 @@ Beyond western settings, SynthPops is currently being extended in detail to mode
 
  **Read the latest King County works: [(1)]({{"https://www.medrxiv.org/content/10.1101/2020.07.15.20154765v3" | prepend: site.baseurl }}), [(2)]({{"https://www.medrxiv.org/content/10.1101/2020.07.15.20154765v3" | prepend: site.baseurl }}).**
 
+
+ **Check out the [project]({{"https://github.com/institutefordiseasemodeling/synthpops/" | prepend: site.baseurl }}) in development.**
+
 **Schematic representation of the workflow for modeling human mixing patterns and infection transmission dynamics.** 
 <br>
 <figure class="image">
