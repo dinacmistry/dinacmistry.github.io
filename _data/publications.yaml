@@ -25,6 +25,59 @@ papers:
   #   # video: "https://www.youtube.com/watch?v=1v5_CzdRVAc"
   #   selected: y
 
+  - title: "Inferring high-resolution human mixing patterns for disease modeling"
+    authors: "<b>Dina Mistry</b>, Maria Litvinova, Ana Pastore y Piontti, Matteo Chinazzi, Laura Fumanelli, Marcelo Gomes, Syed Haque, Quanhui Liu, Kunpeng Mu, Xinyue Xiong, M. Elizabeth Halloran, Ira Longini, Stefano Merler, Marco Ajelli, Alessandro Vespignani"
+    venue: "Nature Communications. 2021."
+    paper_pdf: "https://www.nature.com/articles/s41467-020-20544-y"
+    selected: y
+
+  - title: "Seeding COVID-19 across sub-Saharan Africa: an analysis of reported importation events across 40 countries"
+    authors: "Laura Skrip, Prashanth Selvaraj, Brittany Hagedorn, André Lin Ouédraogo, Navideh Noori, <b>Dina Mistry</b>, Jamie Bedson, Laurent Hébert-Dufresne, Samuel Scarpino, Benjamin Althouse"
+    venue: "American Journal of Tropical Medicine and Hygiene. 2021."
+    paper_pdf: "https://www.medrxiv.org/content/10.1101/2020.04.01.20050203v2"
+    # slides: "/assets/publications/2014_item_cold_start/slides.pdf"
+    # code: "https://github.com/msaveski/LCE"
+    selected: y
+
+  - title: "Lessons learned from Vietnam’s COVID‐19 response: the role of adaptive behaviour change and testing in epidemic control."
+    authors: "Quang D. Pham, Robyn M. Stuart, Thuong V. Nyugen, Quang C. Luong, Dai Q. Tran, Thai Q. Pham, Lan T. Phan, Tan Q. Dang, Duong N. Tran, Hung T. Do, <b>Dina Mistry</b>, Daniel J. Klein, Romesh G. Abeysuriya, Assaf P. Oron, Cliff C. Kerr"
+    # venue: "American Journal of Tropical Medicine and Hygiene. 2021."
+    paper_pdf: "https://www.medrxiv.org/content/medrxiv/early/2020/12/19/2020.12.18.20248454.full.pdf"
+    # slides: "/assets/publications/2014_item_cold_start/slides.pdf"
+    # code: "https://github.com/msaveski/LCE"
+    selected: n
+
+  - title: "Preventing a cluster from becoming a new wave in settings with zero community COVID-19 cases."
+    authors: "Romesh G. Abeysuriya, Dominic Delport, Robyn M. Stuart, Rachel Sacks-Davis, Cliff C. Kerr, <b>Dina Mistry</b>, Daniel J. Klein, Margaret Hellard, Nick Scott"
+    # venue: "American Journal of Tropical Medicine and Hygiene. 2021."
+    paper_pdf: "https://www.medrxiv.org/content/medrxiv/early/2020/12/22/2020.12.21.20248595.full.pdf"
+    # slides: "/assets/publications/2014_item_cold_start/slides.pdf"
+    # code: "https://github.com/msaveski/LCE"
+    selected: n
+
+  - title: "Robust test and trace strategies can prevent COVID-19 resurgences: a case study from New South Waves, Australia."
+    authors: "Robyn M. Stuart, Romesh G. Abeysuriya, Cliff C. Kerr, <b>Dina Mistry</b>, Daniel J. Klein, Richard Gray, Margaret Hellard, Nick Scott"
+    # venue: "American Journal of Tropical Medicine and Hygiene. 2021."
+    paper_pdf: "https://www.medrxiv.org/content/10.1101/2020.10.09.20209429v2"
+    # slides: "/assets/publications/2014_item_cold_start/slides.pdf"
+    # code: "https://github.com/msaveski/LCE"
+    selected: n
+
+  - title: "The potential contribution of face coverings to the control of SARS-CoV-2 transmission in schools and broader society in the UK: a modelling study."
+    authors: "Jasmina Panovska-Griffiths, Cliff C. Kerr, William Waites, Robyn M. Stuart, <b>Dina Mistry</b>, Derek Foster, Daniel J. Klein, Russell M. Viner, Chris Bonell"
+    # venue: "American Journal of Tropical Medicine and Hygiene. 2021."
+    paper_pdf: "https://www.medrxiv.org/content/10.1101/2020.09.28.20202937v2"
+    # slides: "/assets/publications/2014_item_cold_start/slides.pdf"
+    # code: "https://github.com/msaveski/LCE"
+    selected: n
+
+  - title: "The role of masks in reducing the risk of new waves of COVID‐19 in low transmission settings: a modelling study."
+    authors: "Robyn M. Stuart, Romesh G. Abeysuriya, Cliff C. Kerr, <b>Dina Mistry</b>, Daniel J. Klein, Richard Gray, Margaret Hellard, Nick Scott"
+    # venue: "American Journal of Tropical Medicine and Hygiene. 2021."
+    paper_pdf: "https://doi.org/10.1101/2020.09.02.20186742"
+    # slides: "/assets/publications/2014_item_cold_start/slides.pdf"
+    # code: "https://github.com/msaveski/LCE"
+    selected: n
 
   - title: "Maximizing education while minimizing COVID risk: priorities and pitfalls for reopening schools."
     authors: "Jamie Cohen, <b>Dina Mistry</b>, Cliff Kerr, Daniel Klein"
@@ -51,12 +104,12 @@ papers:
     # venue: "ICWSM'16: International AAAI Conference on Web and Social Media. 2016. (Short Paper)"
     paper_pdf: "https://covid.idmod.org/data/Modeling_countermeasures_for_balanced_reopening_King_County_Washington.pdf"
     # poster: "/assets/publications/2016_twitter_topic_modeling/poster.pdf"
-    selected: y
+    selected: n
 
   - title: "Modelling the impact of reducing control measures on the COVID-19 pandemic in a low transmission setting."
     authors: "Nick Scott, Anna Palmer, Dominic Delport, Romesh Abeysuriya, Robyn Stuart, Cliff Kerr, <b>Dina Mistry</b>, Daniel Klein, Rachel Sacks-Davis, Katie Heath, Samuel Hainsworth, Alisa Pedrana, Mark Stoove, David Wilson, Margaret Hellard"
-    # venue: "ICWSM'16: International AAAI Conference on Web and Social Media. 2016. (Short Paper)"
-    paper_pdf: "https://www.medrxiv.org/content/10.1101/2020.06.11.20127027v1"
+    venue: "Medical Journal of Australia. 2020."
+    paper_pdf: "https://onlinelibrary.wiley.com/doi/10.5694/mja2.50845"
     # poster: "/assets/publications/2016_twitter_topic_modeling/poster.pdf"
     selected: y
 
@@ -83,24 +136,10 @@ papers:
     # code: "https://github.com/msaveski/LCE"
     selected: y
 
-  - title: "Seeding COVID-19 across sub-Saharan Africa: an analysis of reported importation events across 40 countries"
-    authors: "Laura Skrip, Prashanth Selvaraj, Brittany Hagedorn, André Lin Ouédraogo, Navideh Noori, <b>Dina Mistry</b>, Jamie Bedson, Laurent Hébert-Dufresne, Samuel Scarpino, Benjamin Althouse"
-    # venue: "RecSys'14, ACM Conference Series on Recommender Systems. 2014."
-    paper_pdf: "https://www.medrxiv.org/content/10.1101/2020.04.01.20050203v2"
-    # slides: "/assets/publications/2014_item_cold_start/slides.pdf"
-    # code: "https://github.com/msaveski/LCE"
-    selected: y
-
   - title: "Spread of infectious disease and social awareness as parasitic contagions on clustered networks"
     authors: "Laurent Hébert-Dufresne, <b>Dina Mistry</b>, Benjamin Althouse"
-    # venue: "Socinfo'14: International Conference on Social Informatics. 2014."
-    paper_pdf: "https://arxiv.org/pdf/2003.10604.pdf"
-    selected: y
-
-  - title: "Inferring high-resolution human mixing patterns for disease modeling"
-    authors: "<b>Dina Mistry</b>, Maria Litvinova, Ana Pastore y Piontti, Matteo Chinazzi, Laura Fumanelli, Marcelo Gomes, Syed Haque, Quanhui Liu, Kunpeng Mu, Xinyue Xiong, M. Elizabeth Halloran, Ira Longini, Stefano Merler, Marco Ajelli, Alessandro Vespignani"
-    # venue: "Pattern Recognition Letters. 2013."
-    paper_pdf: "https://arxiv.org/abs/2003.01214"
+    venue: "Physical Review Research. 2020."
+    paper_pdf: "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033306"
     selected: y
 
   - title: "Quantifying the risk of Zika virus local transmission in the continental US during the 2015-2016 ZIKV epidemic"
