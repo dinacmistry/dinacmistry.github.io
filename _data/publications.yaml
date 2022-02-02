@@ -31,21 +31,36 @@ papers:
     paper_pdf: "https://www.nature.com/articles/s41467-020-20544-y"
     selected: y
 
+  - title: "Controlling SARS-CoV-2 via test-trace-quarantine."
+    authors: "Cliff Kerr, <b>Dina Mistry <sup>‡</sup></b>, Robyn Stuart<sup>‡</sup>, Katherine Rosenfeld, Gregory Hart, Prashanth Selvaraj, Rafael Nunez, Jamie Cohen, Romesh Abeysuriya, Lauren George, Brittany Hagedorn, Michal Jastrzebski, Meaghan Fagalde, Jeff Duchin, Michael Famulare, Daniel Klein"
+    venue: "Nature Communications. 2021."
+    # venue: "WWW'16: International Conference on the World Wide Web. 2016. (Demo)"
+    paper_pdf: "https://www.nature.com/articles/s41467-021-23276-9"
+    selected: y
+
   - title: "Seeding COVID-19 across sub-Saharan Africa: an analysis of reported importation events across 40 countries"
     authors: "Laura Skrip, Prashanth Selvaraj, Brittany Hagedorn, André Lin Ouédraogo, Navideh Noori, <b>Dina Mistry</b>, Jamie Bedson, Laurent Hébert-Dufresne, Samuel Scarpino, Benjamin Althouse"
     venue: "American Journal of Tropical Medicine and Hygiene. 2021."
-    paper_pdf: "https://www.medrxiv.org/content/10.1101/2020.04.01.20050203v2"
+    paper_pdf: "https://doi.org/10.4269/ajtmh.20-1502"
     # slides: "/assets/publications/2014_item_cold_start/slides.pdf"
     # code: "https://github.com/msaveski/LCE"
     selected: y
 
-  - title: "Lessons learned from Vietnam’s COVID‐19 response: the role of adaptive behaviour change and testing in epidemic control."
+  - title: "Modelling the impact of relaxing COVID-19 control measures during a period of low viral transmission"
+    authors: "Nick Scott, Anna Palmer, Dominic Delport, Romesh Abeysuriya, Robyn Stuart, Cliff C Kerr, Dina Mistry, Daniel J Klein, Rachel Sacks-Davis, Katie Heath, Samuel Hainsworth, Alisa Pedrana, Mark Stoove, David P Wilson, Margaret Hellard"
+    venue: "Medical Journal of Australia. 2020."
+    paper_pdf: "https://doi.org/10.5694/mja2.50845"
+    selected: y
+
+  # - title: "Lessons learned from Vietnam’s COVID‐19 response: the role of adaptive behaviour change and testing in epidemic control."
+  - title: "Estimating and mitigating the risk of COVID-19 epidemic rebound associated with reopening of international borders in Vietnam: a modelling study"
     authors: "Quang D. Pham, Robyn M. Stuart, Thuong V. Nyugen, Quang C. Luong, Dai Q. Tran, Thai Q. Pham, Lan T. Phan, Tan Q. Dang, Duong N. Tran, Hung T. Do, <b>Dina Mistry</b>, Daniel J. Klein, Romesh G. Abeysuriya, Assaf P. Oron, Cliff C. Kerr"
-    # venue: "American Journal of Tropical Medicine and Hygiene. 2021."
-    paper_pdf: "https://www.medrxiv.org/content/medrxiv/early/2020/12/19/2020.12.18.20248454.full.pdf"
+    venue: "The Lancet Global Health. 2021."
+    paper_pdf: "https://doi.org/10.1016/S2214-109X(21)00103-0"
+    # paper_pdf: "https://www.medrxiv.org/content/medrxiv/early/2020/12/19/2020.12.18.20248454.full.pdf"
     # slides: "/assets/publications/2014_item_cold_start/slides.pdf"
     # code: "https://github.com/msaveski/LCE"
-    selected: n
+    selected: y
 
   - title: "Preventing a cluster from becoming a new wave in settings with zero community COVID-19 cases."
     authors: "Romesh G. Abeysuriya, Dominic Delport, Robyn M. Stuart, Rachel Sacks-Davis, Cliff C. Kerr, <b>Dina Mistry</b>, Daniel J. Klein, Margaret Hellard, Nick Scott"
@@ -93,12 +108,6 @@ papers:
     # poster: "/assets/publications/2016_twitter_topic_modeling/poster.pdf"
     selected: y
 
-  - title: "Controlling SARS-CoV-2 via test-trace-quarantine."
-    authors: "Cliff Kerr, <b>Dina Mistry <sup>‡</sup></b>, Robyn Stuart<sup>‡</sup>, Katherine Rosenfeld, Gregory Hart, Prashanth Selvaraj, Rafael Nunez, Jamie Cohen, Romesh Abeysuriya, Lauren George, Brittany Hagedorn, Michal Jastrzebski, Meaghan Fagalde, Jeff Duchin, Michael Famulare, Daniel Klein"
-    # venue: "WWW'16: International Conference on the World Wide Web. 2016. (Demo)"
-    paper_pdf: "https://www.medrxiv.org/content/10.1101/2020.07.15.20154765v3"
-    selected: y
-
   - title: "Modeling countermeasures for a balanced reopening in King County, Washington."
     authors: "Katherine Rosenfeld, Cliff Kerr, Jamie Cohen, Rafael Nunez, Gregory Hart, <b>Dina Mistry</b>, Prashanth Selvaraj, Daniel Klein"
     # venue: "ICWSM'16: International AAAI Conference on Web and Social Media. 2016. (Short Paper)"
@@ -122,8 +131,8 @@ papers:
 
   - title: "Covasim: an agent-based model of COVID-19 dynamics and interventions"
     authors: "Cliff Kerr, Robyn Stuart, <b>Dina Mistry</b>, Romesh, Abeysuriya, Gregory Hart, Katherine Rosenfeld, Prashanth Selvaraj, Rafael Nunez, Brittany Hagedorn, Lauren George, Amanda Izzo, Anna Palmer, Dominic Delport, Carrie Bennette, Bradley Wagner, Stewart Chang, Jamie Cohen, Jasmina Panovska-Griffiths, Michal Jastrzebski, Assaf Oron, Edward Wenger, Michael Famulare, Daniel Klein"
-    # venue: "KDD'15: International Conference on Knowledge Discovery and Data Mining. 2015. (Industry Track)"
-    paper_pdf: "https://www.medrxiv.org/content/10.1101/2020.05.10.20097469v1"
+    venue: "PLOS Computational Biology"
+    paper_pdf: "https://doi.org/10.1371/journal.pcbi.1009149"
     # poster: "/assets/publications/2015_one_pass_ranking_models/poster.pdf"
     # slides: "/assets/publications/2015_one_pass_ranking_models/slides.pdf"
     selected: y

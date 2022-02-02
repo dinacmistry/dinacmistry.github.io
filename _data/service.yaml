@@ -1,9 +1,24 @@
 service:
 
-- title: "Vaccine Hesitancy & Misinformation"
-  subtitle: "Parallel Session Organizer, IDM Symposium"
+# - title: "Vaccine Hesitancy & Misinformation"
+#   subtitle: "Parallel Session Organizer, IDM Symposium"
+#   location: "Virtual"
+#   date: "Postponed"
+
+# - title: "Zimbabe COVID-19 Modeling Workshop"
+#   subtitle: "World Bank"
+#   location: "Virtual"
+#   date: "11/15/2021 - 11/17/2021"
+
+- title: "Poster Adjucator"
+  subtitle: "Networks 2021"
   location: "Virtual"
-  date: "Postponed"
+  date: "07/05/2021 - 07/10/2021"
+
+- title: "Parallel Session Chair"
+  subtitle: "Networks 2021"
+  location: "Virtual"
+  date: "07/07/2021"
 
 - title: "NetSci 2020 Conference Financial Support Committee Member"
   subtitle: "Network Science Society"

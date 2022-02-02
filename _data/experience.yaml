@@ -1,6 +1,13 @@
 experiences:
+- place: "Twitter"
+  time: "Jun 2021 - Now"
+  title: "Data Scientist II"
+  subtitle: "Cortex Data Science"
+  category: "work"
+
+
 - place: "Bill & Melinda Gates Foundation"
-  time: "Jul 2020 - now"
+  time: "Jul 2020 - May 2021"
   title: "Postdoctoral Research Scientist"
   subtitle: "Institute for Disease Modeling"
   category: "work"
